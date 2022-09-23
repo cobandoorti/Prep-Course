@@ -16,7 +16,7 @@ const nuevaResta = 10 - null === 5;
 const nuevaMultiplicacion = 10 * null === 40 ;
 
 // Resuelve el siguiente problema matemático: tercer prueba de cambio0
-const nuevoModulo = 21 % 5 === null;
+const nuevoModulo = 21 % 5 === null; "quinta prueba"
 
 
 // En los próximos 22 problemas, deberás completar la función.
@@ -65,7 +65,7 @@ function sonIguales(x, y) {
 
 function tienenMismaLongitud(str1, str2) {
   // Devuelve "true" si las dos strings tienen la misma longitud
-  // De lo contrario, devuelve "false"
+  // De lo contrario, devuelve "false" 
   // Tu código:
   
 }
