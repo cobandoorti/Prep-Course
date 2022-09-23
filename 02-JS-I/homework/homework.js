@@ -15,7 +15,7 @@ const nuevaResta = 10 - null === 5;
 // Resuelve el siguiente problema matemático: segundo cambio
 const nuevaMultiplicacion = 10 * null === 40 ;
 
-// Resuelve el siguiente problema matemático: tercer prueba de cambio
+// Resuelve el siguiente problema matemático: tercer prueba de cambio0
 const nuevoModulo = 21 % 5 === null;
 
 
